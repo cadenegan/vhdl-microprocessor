@@ -7,5 +7,5 @@ interface, and their testbenches. The processor behavior and tests are not imple
 Next steps are to work from the course specification, test the registers and memory
 interface, then connect the datapath and control logic.
 
-The completed combinational projects are [the ALU](https://github.com/LanROVeg/ALU-in-VHDL)
-and [4-bit adder](https://github.com/LanROVeg/4-bit-Adder-in-VHDL).
+The completed combinational projects are [the ALU](https://github.com/cadenegan/ALU-in-VHDL)
+and [4-bit adder](https://github.com/cadenegan/4-bit-Adder-in-VHDL).
